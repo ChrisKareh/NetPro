@@ -1,1 +1,3 @@
 ./aut senior frontend/aut-senior/node_modules
+./aut senior frontend/aut-senior/node_modules/*
+aut senior frontend/aut-senior/node_modules/*
